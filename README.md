@@ -1,4 +1,4 @@
-# Diabetes_Prediction_using_Python
+# Diabetes Prediction using Python
 The "Diabetes Prediction using Python and Streamlit" project represents a pivotal fusion of machine learning, Python programming, and user-friendly web application development. In an age where health awareness and early disease detection are paramount, this project aims to empower individuals with a tool for assessing their risk of diabetes. At its core lies a Support Vector Machine (SVM) classifier, meticulously trained on a diabetes dataset, and a Streamlit web application designed for seamless user interaction.
 
 Here's the Flow Chart Diagram for the mode,l I'm are using -
